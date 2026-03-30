@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Beginning",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-03-30T11:37:16.899591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Every Beginning Ends",
+      "artist": "Noah Cyrus",
+      "has_synced": true,
+      "path": "select/01_Every_Beginning_Ends_Noah_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Every Beginning Ends",
+      "artist": "Noah Cyrus",
+      "has_synced": true,
+      "path": "select/02_Every_Beginning_Ends_Noah_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're Beginning To Get To Me",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/03_You're_Beginning_To_Get_To_Me_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're Beginning to Get to Me (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": false,
+      "path": "select/04_You're_Beginning_to_Get_to_Me_(Album_Version)_Clay_Walker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beginning",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/05_Beginning_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anorak and Other Complicated Words Beginning With an A",
+      "artist": "The LK",
+      "has_synced": false,
+      "path": "select/06_Anorak_and_Other_Complicated_Words_Beginning_With_an_A_The_LK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Beginning of Memory",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/07_The_Beginning_of_Memory_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A New Beginning",
+      "artist": "Blind Guardian Twilight Orchestra",
+      "has_synced": false,
+      "path": "select/08_A_New_Beginning_Blind_Guardian_Twilight_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Beginning",
+      "artist": "Netsky",
+      "has_synced": false,
+      "path": "select/09_No_Beginning_Netsky.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Beginning Of The End",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/10_The_Beginning_Of_The_End_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Beginning of the End - ladytron",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/11_The_Beginning_of_the_End_-_ladytron_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Beginning of the End (Ladytron)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/12_The_Beginning_of_the_End_(Ladytron)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When The End Meets The Beginning",
+      "artist": "Nobody & Mystic Chords of Memory",
+      "has_synced": false,
+      "path": "select/13_When_The_End_Meets_The_Beginning_Nobody_&_Mystic_Chords_of_Memory.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Beginning And the End",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/14_The_Beginning_And_the_End_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In The Beginning",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/15_In_The_Beginning_Genesis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beginning",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_Beginning_フランシュシュ.txt"
+    }
+  ]
+}
